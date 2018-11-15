@@ -2,16 +2,7 @@
 
 👋 Scalable Messaging Application Server
 
-##
-
-# Title
-
-![banner]()
-
-![badge]()
-![badge]()
-
-> This is an example file with maximal choices selected.
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 This is a long description.
 
