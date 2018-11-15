@@ -1,2 +1,3 @@
-# hiya
-Unified Messaging Service
+# Hiya
+
+Unified Messaging Application Server
